@@ -7,3 +7,6 @@ This is a different text.
 Some text here.
 
 Needs conflict text.
+
+Another different text.
+
